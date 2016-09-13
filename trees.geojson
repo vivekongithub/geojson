@@ -1,0 +1,584 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "serial": 1,
+        "name": "farm1",
+        "description": "bagh"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.87261186946246,
+              28.929178825104685
+            ],
+            [
+              77.87192522395475,
+              28.92841353128229
+            ],
+            [
+              77.87135123122565,
+              28.927648231810423
+            ],
+            [
+              77.8725421320281,
+              28.926774938395184
+            ],
+            [
+              77.87360428679784,
+              28.927967498534585
+            ],
+            [
+              77.8728425394377,
+              28.92846517705543
+            ],
+            [
+              77.87314831126535,
+              28.928793831372616
+            ],
+            [
+              77.87261186946246,
+              28.929178825104685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.87284523248672,
+            28.928467528274435
+          ],
+          [
+            77.87228733301163,
+            28.928812615272342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87284255027771,
+          28.928467528274435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8728237748146,
+          28.9284792659463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87279695272446,
+          28.92849569868467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87277817726135,
+          28.928507436353332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87275671958923,
+          28.928523869087247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87274330854416,
+          28.9285285641536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87272185087204,
+          28.9285426493514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87270039319992,
+          28.928556734547243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87268429994583,
+          28.928566124676763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87266820669174,
+          28.92857551480544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87265479564667,
+          28.928582557401366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8726413846016,
+          28.928591947528545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8726252913475,
+          28.928601337654882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87261188030241,
+          28.92860603271772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87259846925735,
+          28.928617770373915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87258505821228,
+          28.928624812966962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87257432937622,
+          28.92862950802876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87256091833115,
+          28.928641245682254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.872534096241,
+          28.928660025925137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87251800298691,
+          28.92867176357522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87249386310577,
+          28.928683501223933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87247508764267,
+          28.928692891341978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8724455833435,
+          28.928714019104433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87242412567139,
+          28.92872575674839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8724080324173,
+          28.92873749439102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87238657474518,
+          28.928751579560398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87237584590912,
+          28.92875862214439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87234902381896,
+          28.92877270731092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87232756614685,
+          28.92878444494821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "size(inch)": 43,
+        "type": "poplar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87229806184769,
+          28.92879853011123
+        ]
+      }
+    }
+  ]
+}
